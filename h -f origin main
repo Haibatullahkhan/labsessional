@@ -1,0 +1,11 @@
+[33mcommit 578b7c976fd47266326c8bbb84447940262e0089[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Abdur Rafae <i222638@nu.edu.pk>
+Date:   Fri Apr 18 07:54:19 2025 +0500
+
+    Commit message
+
+[33mcommit 09fa52f1eed31084b583ebbab97049a428841521[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Abdur Rafae <i222638@nu.edu.pk>
+Date:   Fri Apr 18 07:48:27 2025 +0500
+
+    Add CI/CD pipeline
